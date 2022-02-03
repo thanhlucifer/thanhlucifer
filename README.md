@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thanhlucifer
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning C++ programing language
+- 🌱 I'm learning Front-End programming 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email me: thanhphamlq@gmail.com
 
 <!---
 thanhlucifer/thanhlucifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
