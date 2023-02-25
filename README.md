@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/thanhlucifer.svg" width="1200" alt="" />
+  <img src="thanhlucifer.svg" width="1200" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
