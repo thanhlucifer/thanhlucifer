@@ -1,4 +1,3 @@
-
 <a href="#" target="_blank">
   <img src="thanhlucifer.svg" width="1200" alt="" />
 </a>
@@ -63,7 +62,6 @@
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/22112002.tlt" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thanhlucifer-facebook" />
@@ -89,4 +87,7 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:thanhphamlq@gmail.com" target="_top">thanhphamlq@gmail.com</a></strong>
 <br>
+  <a href="#" target="_blank">
+  <img src="thanhlucifer-1.svg" width="1200" alt="" />
+</a>
 
