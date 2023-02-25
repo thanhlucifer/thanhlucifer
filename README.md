@@ -87,6 +87,7 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:thanhphamlq@gmail.com" target="_top">thanhphamlq@gmail.com</a></strong>
 <br>
+  <h2 align="center">📑 My Favorites Quote 📑</h2>
   <a href="#" target="_blank">
   <img src="thanhlucifer-1.svg" width="1200" alt="" />
 </a>
