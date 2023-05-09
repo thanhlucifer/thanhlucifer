@@ -52,7 +52,7 @@
 <br>
 <div align=center>
   <a href="#" title="kamichikodev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlucifer&hide_progress=true"/>
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
   </a>
   <a href="#" title="Thanhlucifer">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&theme=radical"/>
