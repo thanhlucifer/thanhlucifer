@@ -56,7 +56,7 @@
   </a>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -66,7 +66,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true" />
 </picture>
   <picture>
-<img src="https://streak-stats.demolab.com/?user=thanhlucifer&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)" />
+<img src="[https://streak-stats.demolab.com/?user=thanhlucifer&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://streak-stats.demolab.com/?user=thanhlucifer&theme=dark)" />
 </picture>
   
 </div>
