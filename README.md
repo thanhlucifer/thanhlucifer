@@ -54,7 +54,17 @@
   <a href="#" title="kamichikodev">
     <img width="315" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&theme=transparent"></a>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true" />
+</picture>
 </div>
 
 <br>
