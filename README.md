@@ -52,7 +52,7 @@
 <br>
 <div align=center>
   <a href="#" title="kamichikodev">
-    <img width="315" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer&theme=dracula"/>
+    <img width="350" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer&theme=dracula"/>
   </a>
 <picture>
 <source
