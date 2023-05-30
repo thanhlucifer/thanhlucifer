@@ -66,7 +66,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true" />
 </picture>
   <picture>
-<img src="https://streak-stats.demolab.com/?user=thanhlucifer&theme=neon" />
+<img src="https://streak-stats.demolab.com/?user=thanhlucifer&theme=darcula" />
 </picture>
   
 </div>
