@@ -52,7 +52,7 @@
 <br>
 <div align=center>
   <a href="#" title="kamichikodev">
-    <img width="315" align="left" src="[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img width="315" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer"/>
   </a>
 <picture>
 <source
