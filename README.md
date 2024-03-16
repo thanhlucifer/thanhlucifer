@@ -80,6 +80,6 @@
 <br>
   <h2 align="center">📑 My Favorites Quote 📑</h2>
   <a href="#" target="_blank">
-  <img src="thanhlucifer3.svg" width="1200" alt="" />
+  <img src="thanhlucifer4.svg" width="1200" alt="" />
 </a>
 
