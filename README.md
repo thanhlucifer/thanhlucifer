@@ -60,11 +60,11 @@
   <a href="https://www.youtube.com/channel/UCvVqmZhAtdZ2B4siET2rbBQ" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thanhlucifer-youtube" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.linkedin.com/in/pham-thanh-80135a204/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/kamichiko_02/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="kamichiko-instagram" />
+  <a href="https://www.instagram.com/diluc_luci/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt=diluc_luci-instagram" />
   </a>
   <a href="mailto:thanhphamlq@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thanhlucifer-email" />
