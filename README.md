@@ -31,7 +31,7 @@
 <br>
 <div align=left>
   <a href="#" title="kamichikodev">
-    <img width="300" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer&theme=dracula"/>
+    <img width="300" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer&theme=dracula&layout=compact"/>
   </a>
 <picture>
 <source
