@@ -29,9 +29,9 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div align=left>
   <a href="#" title="kamichikodev">
-    <img width="325" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer&theme=dracula"/>
+    <img width="300" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer&theme=dracula"/>
   </a>
 <picture>
 <source
