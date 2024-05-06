@@ -30,10 +30,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=left>
-  <a href="#" title="kamichikodev">
-    <img width="300" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanhlucifer&theme=dracula&layout=compact"/>
-  </a>
-<picture>
+  <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlucifer&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
