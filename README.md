@@ -43,7 +43,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thanhlucifer&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thanhlucifer&show_icons=true&theme=dark&ayout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
