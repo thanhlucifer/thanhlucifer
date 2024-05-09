@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Thanh Lucifer and I'm a Web Developer, from CyberSoft</h2>
 
 ###
 
