@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/thanhlucifer/thanhlucifer/output/snake.svg" alt="Snake animation" />
+
 
 ###
