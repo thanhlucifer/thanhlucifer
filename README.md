@@ -24,7 +24,7 @@ Full Stack Web Developer
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/thanhlucifer/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&theme=radical" />
+  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&theme=radical" />
 </a>
 <a href="https://github.com/thanhlucifer/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhlucifer&layout=compact&langs_count=8&card_width=320&theme=radical" />
