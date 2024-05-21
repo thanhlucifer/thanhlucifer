@@ -23,6 +23,14 @@ Full Stack Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thanhlucifer"><img src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thanhlucifer's GitHub stats" /></a>
-
-![](https://raw.githubusercontent.com/thanhlucifer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thanhlucifer&show_icons=true&theme=dark&ayout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thanhlucifer&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
