@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pham Van Thanh <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl4OWM0djBqY21uYnZvcGRuNWdsc21najdsY2QxNDUwZXc5bWd6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybCT55b7wyMWa3MofB/giphy.gif" width="20" height="20"></>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pham Van Thanh <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl4OWM0djBqY21uYnZvcGRuNWdsc21najdsY2QxNDUwZXc5bWd6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybCT55b7wyMWa3MofB/giphy.gif" width="36" height="30">
 ======================================================================================================================================
 
 Full Stack Web Developer
