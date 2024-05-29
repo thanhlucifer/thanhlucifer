@@ -1,8 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pham Van Thanh <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl4OWM0djBqY21uYnZvcGRuNWdsc21najdsY2QxNDUwZXc5bWd6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ybCT55b7wyMWa3MofB/giphy.gif" width="36" height="30">
-======================================================================================================================================
+<h2 align="center">
+  <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="40">
+  <samp>Welcome to my Coding Realm! I'm <b><a target="_blank">Lucifer</a></samp>
+  <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40">
+</h2>
 
-Full Stack Web Developer
-------------------------
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff193a&random=true&width=435&lines=Computer+Science+MSc+Engineer;Coding+since+11+y%2Fo;Profound+cat+lover;Mobile+%2B+AI;UI%2FUX+Design&center=true" alt="Typing SVG" /></a>
+</p>
+<br>
+
+<p align="center"> 
+  <samp>
+    < 
+    I'm a full-stack web developer.
+    >
+    <br>
+    <br>
+  </samp>
+</p>
 
 * 🌍  I'm based in Ho Chi Minh
 * ✉️  You can contact me at [thanhphamlq@gmail.com](mailto:thanhphamlq@gmail.com)
