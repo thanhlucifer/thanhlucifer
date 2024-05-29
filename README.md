@@ -38,4 +38,4 @@
 </a>
 
 
-![Thanhlucifer's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhlucifer&custom_title=lucifer's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
+![lucifer's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhlucifer&custom_title=Lucifer's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
