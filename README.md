@@ -19,13 +19,28 @@ Full Stack Web Developer
 
 <p align="left"> <a href="https://www.facebook.com/@22112002.tlt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/thanhlucifer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/thanhlucifer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/thanhlucifer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<br/>
 
-<b>My GitHub Stats</b>
 
-<a href="https://github.com/thanhlucifer/github-readme-stats" style="margin-right: 40px">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhlucifer&theme=radical" />
+<p align="left">
+  <a href="https://github.com/thanhlucifer?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-c9243c?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/thanhlucifer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlucifer&theme=dracula&border=c9243c&background=170d10" alt="Tara's GitHub streak"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/thanhlucifer"><img alt="Tara's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+    <a href="https://github.com/thanhlucifer"><img alt="Tara's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thanhlucifer&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+  <br/>
 </a>
-<a href="https://github.com/thanhlucifer/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhlucifer&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+
+
+![Tara's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhlucifer&custom_title=Tara's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
