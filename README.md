@@ -29,15 +29,15 @@
 
 <p align="center">
   <a href="https://github.com/thanhlucifer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlucifer&theme=dracula&border=c9243c&background=170d10" alt="Tara's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlucifer&theme=dracula&border=c9243c&background=170d10" alt="lucifer's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/thanhlucifer"><img alt="Tara's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
-    <a href="https://github.com/thanhlucifer"><img alt="Tara's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thanhlucifer&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+    <a href="https://github.com/thanhlucifer"><img alt="lucifer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+    <a href="https://github.com/thanhlucifer"><img alt="lucifer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thanhlucifer&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Tara's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhlucifer&custom_title=Tara's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
+![Thanhlucifer's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhlucifer&custom_title=lucifer's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
