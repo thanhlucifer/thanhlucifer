@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Dynamic+Developer+;Dont't+kill+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Dynamic+Developer+;See+you+again+in+2+years!" alt="Typing SVG" /></a>
 <br>
 <!-- Social icons section -->
 <p align="center">
@@ -25,13 +25,20 @@
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanhlucifer&theme=tokyonight-duo)](https://git.io/streak-stats)
-
+<!-- GitHub stats -->
 <a> 
     <a href="https://github.com/thanhlucifer"><img alt="lucifer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
     <a href="https://github.com/thanhlucifer"><img alt="lucifer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=thanhlucifer&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
   <br/>
 </a>
 
-
 ![lucifer's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhlucifer&custom_title=Lucifer's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
+
+---
+
+### 🚨 **Important Announcement**
+I will be away for the next **2 years** due to military service. During this time, my GitHub activities will be paused. 
+
+Thank you to everyone who has supported me throughout my journey. I will return stronger, with new experiences and skills to share with this amazing community. Until then, take care, and happy coding! 🚀
+
+---
