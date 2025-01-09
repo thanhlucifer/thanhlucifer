@@ -25,9 +25,7 @@
 
 <br/>
 
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thanhlucifer&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanhlucifer&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <a> 
     <a href="https://github.com/thanhlucifer"><img alt="lucifer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thanhlucifer&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
