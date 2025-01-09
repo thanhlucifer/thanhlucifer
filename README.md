@@ -64,7 +64,6 @@ I will return with new experiences, enhanced skills, and a renewed passion for c
 </div>
 
 </br>
-# Countdown to End of Military Service
 
 ![Countdown to End of Service](https://img.shields.io/endpoint?url=https://countdown-api-kul0.onrender.com/countdown)
 
