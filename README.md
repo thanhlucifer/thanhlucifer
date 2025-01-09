@@ -34,7 +34,7 @@
 
 ![lucifer's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhlucifer&custom_title=Lucifer's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
 
-<hr style="border: 0.5px solid #c9243c; width: 80%; margin: 20px auto;">
+
 
 <h2 align="center" style="color:#F85D7F; font-weight:bold;">🚨 Important Announcement 🚨</h2>
 
@@ -43,7 +43,7 @@
 🎖️ **I will begin my military service in** <span style="color: #F8D866; font-weight:bold;">**February 2025**</span>, which will last for <span style="color: #F85D7F; font-weight:bold;">**2 years**</span>.  
 During this time, my GitHub activities will be on **pause**.
 
-<hr style="border: 0.5px solid #c9243c; width: 80%; margin: 20px auto;">
+
 
 💬 **Thank You!**  
 To everyone who has supported me, collaborated with me, and helped me grow during my journey here, I am deeply grateful.  
@@ -63,5 +63,5 @@ I will return with new experiences, enhanced skills, and a renewed passion for c
 <img src="https://media.giphy.com/media/3o7TKP9ln4dAq1ir4s/giphy.gif" width="100">
 </div>
 
-<hr style="border: 0.5px solid #c9243c; width: 80%; margin: 20px auto;">
+</br>
 
