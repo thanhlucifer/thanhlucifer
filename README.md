@@ -26,9 +26,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/thanhlucifer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlucifer&theme=dracula&border=c9243c&background=170d10" alt="lucifer's GitHub streak"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thanhlucifer&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 
 <a> 
