@@ -43,7 +43,7 @@
 🎖️ **I will begin my military service in** <span style="color: #F8D866; font-weight:bold;">**February 2025**</span>, which will last for <span style="color: #F85D7F; font-weight:bold;">**2 years**</span>.  
 During this time, my GitHub activities will be on **pause**.
 
-
+. . . . . . . . . . . . . . . . . . . . . . . .
 
 💬 **Thank You!**  
 To everyone who has supported me, collaborated with me, and helped me grow during my journey here, I am deeply grateful.  
@@ -51,7 +51,7 @@ To everyone who has supported me, collaborated with me, and helped me grow durin
 🌟 **See You Again in 2027!**  
 I will return with new experiences, enhanced skills, and a renewed passion for coding. Together, we will continue building amazing things!  
 
-
+. . . . . . . . . . . . . . . . . . . . . . . .
 
 ✨ Until then, take care, stay awesome, and keep the code flowing! 🚀
 
