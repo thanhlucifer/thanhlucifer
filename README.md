@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Dynamic+Developer+;See+you+again+in+2+years!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Dynamic+Developer+;See+you+again+in+2027!" alt="Typing SVG" /></a>
 <br>
 <!-- Social icons section -->
 <p align="center">
