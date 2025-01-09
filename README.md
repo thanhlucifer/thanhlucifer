@@ -51,7 +51,7 @@ To everyone who has supported me, collaborated with me, and helped me grow durin
 🌟 **See You Again in 2027!**  
 I will return with new experiences, enhanced skills, and a renewed passion for coding. Together, we will continue building amazing things!  
 
-<hr style="border: 0.5px solid #c9243c; width: 80%; margin: 20px auto;">
+
 
 ✨ Until then, take care, stay awesome, and keep the code flowing! 🚀
 
