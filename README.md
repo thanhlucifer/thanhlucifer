@@ -64,7 +64,10 @@ I will return with new experiences, enhanced skills, and a renewed passion for c
 </div>
 
 </br>
-![Countdown](https://img.shields.io/endpoint?url=https://countdown-api-kul0.onrender.com/countdown)
+## Countdown to End of Service
+
+![Countdown to completion](https://img.shields.io/endpoint?url=https://countdown-api-kul0.onrender.com/countdown)
+
 
 
 
