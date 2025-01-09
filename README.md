@@ -65,3 +65,7 @@ I will return with new experiences, enhanced skills, and a renewed passion for c
 
 </br>
 
+⏳ **Time to Start Military Service**: **DAYS_TO_START days**
+⏳ **Time to Complete Service**: **DAYS_TO_END days**
+
+
