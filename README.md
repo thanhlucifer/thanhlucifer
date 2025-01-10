@@ -64,9 +64,7 @@ I will return with new experiences, enhanced skills, and a renewed passion for c
 </div>
 
 </br>
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://countdown-api-kul0.onrender.com/countdown" alt="Countdown to End of Service" />
-</p>
+
 
 
 
